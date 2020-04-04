@@ -143,7 +143,7 @@ acme ds reporting subcommand install https://github.com/acme/acme-ds-reporting-u
 Directly from the internet
 
 ```sh
-bash <$(curl -s https://raw.githubusercontent.com/mowat27/shelly/master/bin/bootstrap.sh)
+bash <$(curl -s https://raw.githubusercontent.com/mowat27/shelly/master/bin/install.sh)
 ```
 
 ### Homebrew 

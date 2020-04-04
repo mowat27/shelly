@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/sh
 
 SHELLY_HOME=/usr/local/src/shelly
 SHELLY_LAUNCHER="$SHELLY_HOME"/shelly
