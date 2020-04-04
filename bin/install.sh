@@ -1,6 +1,6 @@
 #!/bin/sh
 
-SHELLY_HOME=/usr/local/src/shelly
+SHELLY_HOME=${HOME}/.shelly
 SHELLY_LAUNCHER="$SHELLY_HOME"/shelly
 
 mkdir -p "$SHELLY_HOME"
